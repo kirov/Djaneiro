@@ -3,7 +3,7 @@
 	<content><![CDATA[
 {% block ${1:blockname} %}
 	${2:$SELECTION}
-{% endblock ${1:blockname} %}
+{% endblock %}
 ]]>	</content>
     <tabTrigger>block</tabTrigger>
     <scope>text.html.django</scope>
